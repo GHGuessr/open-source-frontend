@@ -1,3 +1,3 @@
 # open-source-frontend
-Backend of GHGuessr
+Frontend of GHGuessr
 
